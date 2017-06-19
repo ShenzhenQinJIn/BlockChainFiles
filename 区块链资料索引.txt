@@ -1,0 +1,12 @@
+
+区块链微讲堂系列第四讲：ChainCode 实战: http://v.youku.com/v_show/id_XMjY2Njg2NDM0OA==.html?from=y1.2-1-87.4.1-1.1-1-2-0-0%26source%3Dautoclick
+
+在Ubuntu中部署并测试Fabric 1.0 Beta : http://www.cnblogs.com/studyzy/p/6973334.html
+
+IBM developerWorks 中国 : https://www.ibm.com/developerworks/community/groups/service/html/communityoverview?communityUuid=3302cc3b-074e-44da-90b1-5055f1dc0d9c
+
+Go 语言教程 : http://www.runoob.com/go/go-tutorial.html
+
+知乎Hyperleger : http://www.jianshu.com/search?q=Hyperledger&page=1&type=note
+
+liunx命令操作整理

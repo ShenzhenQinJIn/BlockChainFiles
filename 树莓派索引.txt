@@ -1,0 +1,6 @@
+
+
+1、树莓派安装Ubuntu系统详细过程  http://blog.csdn.net/gddxz_zhouhao/article/details/53384457
+2、树莓派初体验，安装Ubuntu 14.04 LTS （这篇文章在分区时会有错误，跳过！！！或自己研究）
+   https://www.polarxiong.com/archives/树莓派初体验-安装Ubuntu-14-04-LTS.html
+3、linux wifi自动连接固定ip http://blog.csdn.net/ji0525084/article/details/17116731
